@@ -1,4 +1,5 @@
 # Masters-Thesis
+Cell labeling by Colloidal Janus Nanoparticles: 
 In the master’s thesis project at the Indian Association for the Cultivation of Science, Kolkata, I have been 
 working on two interdisciplinary group projects since August 2023. Synthesizing <50 nm colloidal Janus 
 nanoparticles possessing two dissimilar surfaces in a single particle is challenging, requiring advanced 
